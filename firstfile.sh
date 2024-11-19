@@ -7,7 +7,7 @@ echo "This is the user that run this program $(whoami)"
 uname -r
 
 #Declaring a string for MYSTR
-MYSTR="WELCOME TO THE SCRIPTING CLASS"
+MYSTR="WELCOME TO THE SCRIPTING CLASS edited"
 
 echo ${MYSTR}
 
